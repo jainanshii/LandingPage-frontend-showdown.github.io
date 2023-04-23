@@ -7,19 +7,19 @@ let cont1=document.getElementById("cont1");
 
 let images=[
     {
-        image:"/Machu Picchu (1).jpg"
+        image:"Machu Picchu (1).jpg"
     },
     {
-        image:"/Machu Picchu (2).jpg"
+        image:"Machu Picchu (2).jpg"
     },
     {
-        image:"/Machu Picchu (4).jpg"
+        image:"Machu Picchu (4).jpg"
     },
     {
-        image:"/Machu Picchu (5).jpg"
+        image:"Machu Picchu (5).jpg"
     },
     {
-        image:"/Machu Picchu (6).jpg"
+        image:"Machu Picchu (6).jpg"
     },
 ]
 let imagenumber=0;
